@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Joel",
+      "email": "admin@admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "name": "Adrian",
+      "email": "user@user",
+      "password": "user123",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "name": "ps5",
+      "price": 1000,
+      "amount": 8
+    },
+    {
+      "name": "cat",
+      "price": 8000,
+      "amount": 2
+    }
+  ]
+}
