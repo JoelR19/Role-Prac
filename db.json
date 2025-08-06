@@ -4,12 +4,21 @@
       "name": "Joel",
       "email": "admin@admin",
       "password": "admin123",
-      "role": "admin"
+      "role": "admin",
+      "id": "7337"
     },
     {
       "name": "Adrian",
       "email": "user@user",
       "password": "user123",
+      "role": "user",
+      "id": "630f"
+    },
+    {
+      "id": "0e6a",
+      "name": "pepe",
+      "email": "pepe@pepe",
+      "password": "pepe",
       "role": "user"
     }
   ],
@@ -17,12 +26,14 @@
     {
       "name": "ps5",
       "price": 1000,
-      "amount": 8
+      "amount": 8,
+      "id": "57"
     },
     {
       "name": "cat",
       "price": 8000,
-      "amount": 2
+      "amount": 2,
+      "id": "7"
     }
   ]
 }
